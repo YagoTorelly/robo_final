@@ -60,3 +60,5 @@ O código está organizado em funções modulares:
 - **Funções da garra**: Abertura, fechamento, elevação e descida
 - **Funções de detecção**: Identificação de paredes e objetos vermelhos
 - **Função principal**: Orquestra todo o processo de busca e coleta
+
+link youtube : https://youtube.com/shorts/JkM2XvW8A1U?si=t5i5qg1zTQmski5k
